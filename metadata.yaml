@@ -1,0 +1,25 @@
+_repo: Cinematografo_16311
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16311-h/images/cover_thumb.jpg
+creator:
+  author:
+    agent_name: Rivera, Jose Maria
+    birthdate: 1882
+    gutenberg_agent_id: '6612'
+    url: http://www.gutenberg.org/2009/agents/6612
+description: ''
+gutenberg_issued: '2005-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16311'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tagalog drama'
+- !lcc 'PL'
+title: Cinematografo
+url: http://www.gutenberg.org/ebooks/16311
